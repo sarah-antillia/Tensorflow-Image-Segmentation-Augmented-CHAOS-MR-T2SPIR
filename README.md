@@ -80,7 +80,7 @@ The citation information can be found in the
  please download the jpg dataset from the google drive 
 <a href="https://drive.google.com/file/d/1lxCsEjs7YpxYUgrfDGagI9YaKJVPSF38/view?usp=sharing">CHAOS-MR-T2SPIR-ImageMask-Dataset-V1.zip</a>
 <br>
-, which was derived by us from the original MT dataset (dcm and png) of CHAOS Train_Sets.
+, which was derived by us from the original MR dataset (dcm and png) of CHAOS Train_Sets.
 <br>
 
 Please expand the downloaded ImageMaskDataset and place it under <b>./dataset</b> folder to be
