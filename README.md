@@ -186,15 +186,6 @@ images_dir    = "./mini_test/images/"
 output_dir    = "./mini_test_output"
 merged_dir    = "./mini_test_output_merged"
 
-[tiledinfer] 
-overlapping = 128
-
-images_dir    = "./mini_test/images/"
-output_dir    = "./tiled_mini_test_output"
-;merged_dir    = "./tiled_mini_test_output_merged"
-bitwise_blending = False
-blending      = "bitwise_or"
-;blending     = "bitwise_and"
 
 [segmentation]
 colorize   = False
@@ -205,13 +196,6 @@ blursize   = None
 [mask]
 blur       = True
 binarize   = False
-
-[xmask]
-blur      = True
-blur_size = (3,3)
-binarize  = True
-#threshold = 128
-threshold = 128
 
 [generator]
 debug         = True
