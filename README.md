@@ -27,7 +27,7 @@ ImageMaskAugmentor.py</a> to train a CHAOS-MR-T2SPIR Segmentation Model.<br>
 <br>
 
 In this experiment, we have used the simple UNet Model 
-<a href="./src/TensorflowUNet.py">TensorflowSlightlyFlexibleUNet</a> for this Liver Segmentation.<br>
+<a href="./src/TensorflowUNet.py">TensorflowSlightlyFlexibleUNet</a> for this CHAOS-MR-T2SPIR Segmentation.<br>
 As shown in <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-API">Tensorflow-Image-Segmentation-API</a>.
 you may try other Tensorflow UNet Models:<br>
 
