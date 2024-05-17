@@ -57,9 +57,6 @@ https://doi.org/10.5281/zenodo.3362844<br>
 <br>
 All participants are considered to have read and accepted the Rules.<br> 
 The data is licensed under Attribution-NonCommercial-ShareAlike 4.0 International.<br>  
-The data can be downloaded via the link below:<br>
-<br>
-https://doi.org/10.5281/zenodo.3362844<br>
 <br>
 In your works, please give appropriate credit, provide 
 <a href="https://chaos.grand-challenge.org/Publications/">a link</a> 
